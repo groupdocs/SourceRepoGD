@@ -1,5 +1,5 @@
 ---
-title: "Count Words and Occurrences of Each Word in a Document using C#"
+title: "Count Words 1000 times and Occurrences of Each Word in a Document using C#"
 seoTitle: "Count Words and Occurrences of Each Word in a Document using C# .NET"
 description: "Count number of words and their occurrences in PDF, Word, Excel, PowerPoint, and Email documents in C# using .NET document parsing API."
 date: Tue, 10 May 2022 16:33:57 +0000
