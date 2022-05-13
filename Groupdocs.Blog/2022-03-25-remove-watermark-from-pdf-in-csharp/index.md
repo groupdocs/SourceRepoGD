@@ -1,5 +1,5 @@
 ---
-title: 'Remove 1000 Watermarks from PDF Documents in C#'
+title: "Remove 1000 Watermarks from PDF Documents in C#"
 seoTitle: "Remove Watermark from PDF Documents using C# | .NET Watermark API"
 description: "Delete or remove watermarks from PDF and other documents using C#. An overview of .NET API for C# developers to create a watermark remover application."
 
