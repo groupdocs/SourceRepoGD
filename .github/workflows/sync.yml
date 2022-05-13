@@ -10,7 +10,7 @@ jobs:
         uses: adrianjost/files-sync-action@v1.0.1
         with:
           FILE_PATTERNS: |
-            ^.+/.+\.md$
+            \.md$
           TARGET_REPOS: |
             groupdocs/DestRepoGD:master
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
