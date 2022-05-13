@@ -9,6 +9,7 @@ jobs:
         with:
           FILE_PATTERNS: |
             ^.+/.+\.md$
+            ^.+/images/.+\..{3,5}$
           TARGET_REPOS: |
             groupdocs/DestRepoGD
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
