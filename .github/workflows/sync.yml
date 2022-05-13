@@ -10,7 +10,7 @@ jobs:
           FILE_PATTERNS: |
             ^.+/.+\.md$
           TARGET_REPOS: |
-            groupdocs/DestRepoGD:master
+            groupdocs/DestRepoGD
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           SRC_ROOT: /Groupdocs.Blog/
           TARGET_ROOT: /content/Groupdocs.Blog/
